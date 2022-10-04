@@ -1,1 +1,1 @@
-git clone origin master
+git pull origin master
